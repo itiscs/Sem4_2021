@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/ChatSample/ChatSample/obj
+/MoveShape/.vs/MoveShape
+/MoveShape/MoveShape/bin/Debug/netcoreapp3.0
+/MoveShape/MoveShape/obj
