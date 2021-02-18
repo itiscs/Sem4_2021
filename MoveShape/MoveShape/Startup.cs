@@ -26,6 +26,7 @@ namespace MoveShape
 
             app.UseEndpoints(endpoints =>
             {
+
                 endpoints.MapHub<ShapeHub>("/shapeHub");
             });
         }
